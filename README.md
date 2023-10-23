@@ -16,7 +16,7 @@ Private keys and mnemonics contained in this repository are used for internal te
 ## Repository structure
 
 - `contracts`: zkevm contracts
-  - `PolygonZkEVMBridge.sol`: transfer assets between chains
+  - `PolygonZkEVMBridge.sol`: transfer assets between chainsh
     - `PolygonZkEVMGlobalExitRoot.sol`: manage global exit root in L1nmdn
     - `PolygonZkEVMGlobalExitRootL2.sol`: manage global exit root in L2
   - `PolygonZkEVM.sol`: consensus algorithm used by polygon hermez zkevm
