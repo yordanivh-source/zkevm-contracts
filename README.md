@@ -17,7 +17,7 @@ Private keys and mnemonics contained in this repository are used for internal te
 
 - `contracts`: zkevm contracts
   - `PolygonZkEVMBridge.sol`: transfer assets between chains
-    - `PolygonZkEVMGlobalExitRoot.sol`: manage global exit root in L1
+    - `PolygonZkEVMGlobalExitRoot.sol`: manage global exit root in L1nmdn
     - `PolygonZkEVMGlobalExitRootL2.sol`: manage global exit root in L2
   - `PolygonZkEVM.sol`: consensus algorithm used by polygon hermez zkevm
 - `docs`: specs and useful links
